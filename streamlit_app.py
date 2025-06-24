@@ -62,7 +62,7 @@ def main():
     # Title and description
     st.title(settings.app.title)
     st.markdown("""
-    Generate and explore synthetic Assistive Technology (AT) data with realistic 
+    Generate and explore synthetic payments data with realistic 
     utilization patterns, demographics, and spending behaviors.
     """)
     
